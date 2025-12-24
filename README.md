@@ -12,11 +12,11 @@ Features:
 
 Technologies Used:
 - Python
-- File Handling (or Database, if used)
+- File Handling 
 - Basic Control Structures
 
 How to Run:
-1. Install Python on your system
+1. Install Python on system
 2. Open the project folder in VS Code
 3. Run the main Python file
 4. Follow the on-screen instructions to register or login
